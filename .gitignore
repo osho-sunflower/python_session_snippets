@@ -1,4 +1,7 @@
 .venv/
+__pycache__/
 
 # Ignore PyCharm stuff
 .idea/
+
+output.txt
